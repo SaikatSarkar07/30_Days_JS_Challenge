@@ -1,1 +1,1 @@
-##30 DAYS of JAVASCRIPT Challenge
+#30 DAYS of JAVASCRIPT Challenge
